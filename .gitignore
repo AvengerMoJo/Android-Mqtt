@@ -11,10 +11,17 @@
 # generated files
 bin/
 gen/
+target/
 
 # Local configuration file (sdk path, etc)
 local.properties
+pom.xml.*
 
 # Eclipse project files
 .classpath
 .project
+
+*.iml
+
+.idea
+.DS_Store
